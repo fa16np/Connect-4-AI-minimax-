@@ -11,7 +11,8 @@ Main.py is the main code
 
 ## if you are running it in Linux:
 You can run it on sandcastle/LinuxShell by doing as follows, 
-after getting in the folder..
+after getting in the folder:
+
 	python Main.py
   
   
